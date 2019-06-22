@@ -1,5 +1,5 @@
-# flash-game-death-race
-Top-down death race clone in flash
+# Death Race (Flash Clone)
+Top-down death race clone game in flash
 
 I've built this game back in 2006 as something stupid to pass my time.
 
